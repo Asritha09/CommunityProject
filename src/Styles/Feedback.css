@@ -1,0 +1,11 @@
+.RadioInput{
+    font-size: 30px;
+    width: 50px;
+    margin-top: 15px;
+}
+
+.RadioOption{
+    font-size: 15px;
+    padding-left: 0px;
+    margin-top: 15px;
+}
